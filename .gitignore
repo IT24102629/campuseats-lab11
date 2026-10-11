@@ -1,0 +1,25 @@
+# Frontend
+campuseats-dashboard/node_modules/
+campuseats-dashboard/dist/
+campuseats-dashboard/dist-ssr/
+campuseats-dashboard/.env
+campuseats-dashboard/.env.*
+!campuseats-dashboard/.env.example
+
+# Backend build output
+backend/CampusEats.Api/bin/
+backend/CampusEats.Api/obj/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# IDE / editor files
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log
+logs/
